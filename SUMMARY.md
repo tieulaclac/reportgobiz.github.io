@@ -3,6 +3,12 @@
 * [Câu hỏi thường gặp](FAQ.md)
 
 * GOBIZ WORKSPACE
+    * [Giao dịch mặc cả](https://datastudio.google.com/u/0/reporting/2a942a3d-0f0a-4343-9230-ed50d8f5542c/page/FRaxB)
+    * [Danh sách user trùng contact nhận hàng](https://datastudio.google.com/u/0/reporting/6503b4e0-1aad-4002-ad42-7b4c4c6aedc9/page/T3MkB)
+    * [Tình hình sử dụng API đồng bộ thông tin với 1688](https://datastudio.google.com/u/0/reporting/a19b80d2-d547-405d-9325-173b33dd8434/page/T3MkB)
+    * [Giao dịch nhà cung cấp](https://datastudio.google.com/u/0/reporting/070e1e13-573c-4673-a544-7213cd42302c/page/KSjjB)
+
+* ALI-KSCLDV WORKSPACE
     * [ALI-Thống kê SL Bao Hàng đi TMDT](https://datastudio.google.com/u/0/reporting/da9180be-0c92-4ea0-a216-ac370c9f3f36/page/P4BqB)
     * [Dữ liệu kiện không nằm trong bao nào kho hiện tại kiện là Quảng Châu](https://datastudio.google.com/u/0/reporting/2cbda203-7bee-4fe7-a6d5-6f53c2a51e06/page/P4BqB)
     * [Kiểm soát đơn âm không có KNNB và giao dịch KNNB Alipay](https://datastudio.google.com/u/0/reporting/12d6f6fa-ec3e-487d-9fcb-9b2296d74e43/page/o5BqB)
@@ -11,12 +17,6 @@
     * [Báo cáo Kiểm soát bao hàng](https://datastudio.google.com/u/0/reporting/ee41c5ea-7904-4209-b66b-d6c8488fb860/page/P4BqB)
     * [Kiện kho phân phối chưa nhận](https://datastudio.google.com/u/0/reporting/aaa96acd-d0f0-4ab1-8f07-75e8b2c4347d/page/P4BqB)
     * [Báo cáo lệch dữ liệu M5 - Nhaphang/Baogam](https://datastudio.google.com/u/0/reporting/610a36d6-195e-40af-a1b7-5182741293bd/page/P4BqB)
-    * [Giao dịch mặc cả](https://datastudio.google.com/u/0/reporting/2a942a3d-0f0a-4343-9230-ed50d8f5542c/page/FRaxB)
-    * [Danh sách user trùng contact nhận hàng](https://datastudio.google.com/u/0/reporting/6503b4e0-1aad-4002-ad42-7b4c4c6aedc9/page/T3MkB)
-    * [Tình hình sử dụng API đồng bộ thông tin với 1688](https://datastudio.google.com/u/0/reporting/a19b80d2-d547-405d-9325-173b33dd8434/page/T3MkB)
-    * [Giao dịch nhà cung cấp](https://datastudio.google.com/u/0/reporting/070e1e13-573c-4673-a544-7213cd42302c/page/KSjjB)
-
-* ALI-KSCLDV WORKSPACE
     * [ALI-Báo cáo nợ xấu](https://datastudio.google.com/u/0/reporting/6f46b222-8e31-44df-a7e4-547ef800e3aa/page/UoUoB)
     * [ALI-Báo cáo khiếu nại người bán](https://datastudio.google.com/u/0/reporting/16a0075d-bd6b-402e-9d48-47b30a7a76be/page/QAEqB)
     * [ALI-Báo cáo kiểm soát đơn hàng](https://datastudio.google.com/u/0/reporting/7eb3d8de-75b4-4e25-85d5-abd1da6c352a/page/P4BqB)
