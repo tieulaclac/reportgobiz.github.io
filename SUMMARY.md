@@ -14,6 +14,15 @@
 * [Giới thiệu về nền tảng](README.md)
 * [Câu hỏi thường gặp](FAQ.md)
 * GOBIZ WORKSPACE
+    * [ALI-Thống kê SL Bao Hàng đi TMDT](https://datastudio.google.com/u/0/reporting/da9180be-0c92-4ea0-a216-ac370c9f3f36/page/P4BqB)
+    * [Dữ liệu kiện không nằm trong bao nào kho hiện tại kiện là Quảng Châu](https://datastudio.google.com/u/0/reporting/2cbda203-7bee-4fe7-a6d5-6f53c2a51e06/page/P4BqB)
+    * [Kiểm soát đơn âm không có KNNB và giao dịch KNNB Alipay](https://datastudio.google.com/u/0/reporting/12d6f6fa-ec3e-487d-9fcb-9b2296d74e43/page/o5BqB)
+    * [Tổng hợp thu chi trên các Web TCNB](https://datastudio.google.com/u/0/reporting/96df5d18-18a6-4105-8224-133bcf7ac72a/page/P4BqB)
+    * [Thống kê phí trả hàng](https://datastudio.google.com/u/0/reporting/7b56b1d0-0ffb-4ca1-9db5-9e655e4ff21f/page/P4BqB)
+    
+    * [Báo cáo Kiểm soát bao hàng](https://datastudio.google.com/u/0/reporting/ee41c5ea-7904-4209-b66b-d6c8488fb860/page/P4BqB)
+    * [Kiện kho phân phối chưa nhận](https://datastudio.google.com/u/0/reporting/aaa96acd-d0f0-4ab1-8f07-75e8b2c4347d/page/P4BqB)
+    * [Báo cáo lệch dữ liệu M5 - Nhaphang/Baogam](https://datastudio.google.com/u/0/reporting/610a36d6-195e-40af-a1b7-5182741293bd/page/P4BqB)
     * [Giao dịch mặc cả](https://datastudio.google.com/u/0/reporting/2a942a3d-0f0a-4343-9230-ed50d8f5542c/page/FRaxB)
     * [Danh sách user trùng contact nhận hàng](https://datastudio.google.com/u/0/reporting/6503b4e0-1aad-4002-ad42-7b4c4c6aedc9/page/T3MkB)
     * [Tình hình sử dụng API đồng bộ thông tin với 1688](https://datastudio.google.com/u/0/reporting/a19b80d2-d547-405d-9325-173b33dd8434/page/T3MkB)
@@ -36,12 +45,4 @@
     * [ALI-Kiện hàng vận chuyển chậm](https://datastudio.google.com/u/0/reporting/2ec5137c-c131-4b22-98a2-fca2acbc8759/page/VaBkB)
     * [DS kiện TMĐT chuyển line khác](https://datastudio.google.com/u/0/reporting/7cdd2992-6798-43d4-8b6f-3733a3f7fd4d/page/2NAAC)
     * [Gobiz giao dịch mặc cả](https://datastudio.google.com/u/0/reporting/2a942a3d-0f0a-4343-9230-ed50d8f5542c/page/FRaxB)
-    * [ALI-Thống kê SL Bao Hàng đi TMDT](https://datastudio.google.com/u/0/reporting/da9180be-0c92-4ea0-a216-ac370c9f3f36/page/P4BqB)
-    * [Dữ liệu kiện không nằm trong bao nào kho hiện tại kiện là Quảng Châu](https://datastudio.google.com/u/0/reporting/2cbda203-7bee-4fe7-a6d5-6f53c2a51e06/page/P4BqB)
-    * [Kiểm soát đơn âm không có KNNB và giao dịch KNNB Alipay](https://datastudio.google.com/u/0/reporting/12d6f6fa-ec3e-487d-9fcb-9b2296d74e43/page/o5BqB)
-    * [Tổng hợp thu chi trên các Web TCNB](https://datastudio.google.com/u/0/reporting/96df5d18-18a6-4105-8224-133bcf7ac72a/page/P4BqB)
-    * [Thống kê phí trả hàng](https://datastudio.google.com/u/0/reporting/7b56b1d0-0ffb-4ca1-9db5-9e655e4ff21f/page/P4BqB)
     
-    * [Báo cáo Kiểm soát bao hàng](https://datastudio.google.com/u/0/reporting/ee41c5ea-7904-4209-b66b-d6c8488fb860/page/P4BqB)
-    * [Kiện kho phân phối chưa nhận](https://datastudio.google.com/u/0/reporting/aaa96acd-d0f0-4ab1-8f07-75e8b2c4347d/page/P4BqB)
-    * [Báo cáo lệch dữ liệu M5 - Nhaphang/Baogam](https://datastudio.google.com/u/0/reporting/610a36d6-195e-40af-a1b7-5182741293bd/page/P4BqB)
