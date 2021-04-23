@@ -2,5 +2,5 @@
 
 **Liên hệ ai khi có nhu cầu phân quyền?**
 
-*nguyenvanquy@gobiz.com*
+*Vui lòng liên hệ: nguyenvanquy@gobiz.com*
 
