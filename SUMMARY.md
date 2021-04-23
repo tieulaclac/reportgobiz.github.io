@@ -1,25 +1,13 @@
 # Table of contents
 * [Giới thiệu về nền tảng](README.md)
 * [Câu hỏi thường gặp](FAQ.md)
-* GOBIZ WORKSPACE
-    * [Giao dịch mặc cả](https://datastudio.google.com/u/0/reporting/2a942a3d-0f0a-4343-9230-ed50d8f5542c/page/FRaxB)
-    * [Danh sách user trùng contact nhận hàng](https://datastudio.google.com/u/0/reporting/6503b4e0-1aad-4002-ad42-7b4c4c6aedc9/page/T3MkB)
-    * [Tình hình sử dụng API đồng bộ thông tin với 1688](https://datastudio.google.com/u/0/reporting/a19b80d2-d547-405d-9325-173b33dd8434/page/T3MkB)
-    * [Giao dịch nhà cung cấp](https://datastudio.google.com/u/0/reporting/070e1e13-573c-4673-a544-7213cd42302c/page/KSjjB)
-* ALI-KSCLDV WORKSPACE
-    * [Thống kê cá nhân](https://datastudio.google.com/u/0/reporting/d866f4ba-7ef2-4ee9-b589-c62031d6fd0b/page/o5BqB)
-    * [Thống kê theo team](https://datastudio.google.com/u/1/reporting/ed23f393-25db-46a2-ba97-c2eaa005a416/page/MX54B)
-    * [Dashboard](https://datastudio.google.com/u/0/reporting/d160e33a-70e6-41b4-9435-f42343e776d3/page/Uxp2B)
-    * [Form báo cáo cá nhân hàng tháng](https://docs.google.com/forms/d/e/1FAIpQLSd2NGkOJKm5qo1riZCuYMd4AIe9b0psegNjRUA2u_kuJjmacw/viewform?usp=sf_link)# Table of contents
-* [Giới thiệu về nền tảng](README.md)
-* [Câu hỏi thường gặp](FAQ.md)
+
 * GOBIZ WORKSPACE
     * [ALI-Thống kê SL Bao Hàng đi TMDT](https://datastudio.google.com/u/0/reporting/da9180be-0c92-4ea0-a216-ac370c9f3f36/page/P4BqB)
     * [Dữ liệu kiện không nằm trong bao nào kho hiện tại kiện là Quảng Châu](https://datastudio.google.com/u/0/reporting/2cbda203-7bee-4fe7-a6d5-6f53c2a51e06/page/P4BqB)
     * [Kiểm soát đơn âm không có KNNB và giao dịch KNNB Alipay](https://datastudio.google.com/u/0/reporting/12d6f6fa-ec3e-487d-9fcb-9b2296d74e43/page/o5BqB)
     * [Tổng hợp thu chi trên các Web TCNB](https://datastudio.google.com/u/0/reporting/96df5d18-18a6-4105-8224-133bcf7ac72a/page/P4BqB)
     * [Thống kê phí trả hàng](https://datastudio.google.com/u/0/reporting/7b56b1d0-0ffb-4ca1-9db5-9e655e4ff21f/page/P4BqB)
-    
     * [Báo cáo Kiểm soát bao hàng](https://datastudio.google.com/u/0/reporting/ee41c5ea-7904-4209-b66b-d6c8488fb860/page/P4BqB)
     * [Kiện kho phân phối chưa nhận](https://datastudio.google.com/u/0/reporting/aaa96acd-d0f0-4ab1-8f07-75e8b2c4347d/page/P4BqB)
     * [Báo cáo lệch dữ liệu M5 - Nhaphang/Baogam](https://datastudio.google.com/u/0/reporting/610a36d6-195e-40af-a1b7-5182741293bd/page/P4BqB)
@@ -27,6 +15,7 @@
     * [Danh sách user trùng contact nhận hàng](https://datastudio.google.com/u/0/reporting/6503b4e0-1aad-4002-ad42-7b4c4c6aedc9/page/T3MkB)
     * [Tình hình sử dụng API đồng bộ thông tin với 1688](https://datastudio.google.com/u/0/reporting/a19b80d2-d547-405d-9325-173b33dd8434/page/T3MkB)
     * [Giao dịch nhà cung cấp](https://datastudio.google.com/u/0/reporting/070e1e13-573c-4673-a544-7213cd42302c/page/KSjjB)
+
 * ALI-KSCLDV WORKSPACE
     * [ALI-Báo cáo nợ xấu](https://datastudio.google.com/u/0/reporting/6f46b222-8e31-44df-a7e4-547ef800e3aa/page/UoUoB)
     * [ALI-Báo cáo khiếu nại người bán](https://datastudio.google.com/u/0/reporting/16a0075d-bd6b-402e-9d48-47b30a7a76be/page/QAEqB)
