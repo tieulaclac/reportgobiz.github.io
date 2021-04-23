@@ -1,5 +1,5 @@
 # Table of contents
-
+* [Thành tích team theo tháng](README.md)
 * [Câu hỏi thường gặp](FAQ.md)
 * GOBIZ
     * [Thống kê cá nhân](https://datastudio.google.com/u/0/reporting/d866f4ba-7ef2-4ee9-b589-c62031d6fd0b/page/o5BqB)
