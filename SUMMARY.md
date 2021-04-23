@@ -1,5 +1,5 @@
 # Table of contents
-* [Giới thiệu về nền tảng](README.md)
+* [Giới thiệu về GOBIZ REPORT](README.md)
 * [Câu hỏi thường gặp](FAQ.md)
 
 * GOBIZ WORKSPACE
