@@ -2,7 +2,7 @@
 
 **1. Liên hệ ai khi có nhu cầu phân quyền?**
 
-*Vui lòng liên hệ: nguyenvanquy@gobiz.vn*
+*Vui lòng liên hệ: nguyenvanquy@gobiz.vn hoặc phamhoanghai@gobiz.vn*
 
 **2. Các bước để thực hiện yêu cầu thêm báo cáo?**
 
