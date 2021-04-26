@@ -44,7 +44,7 @@
     * [Tình hình khớp đơn và dùng extension](https://datastudio.google.com/u/0/reporting/e7291ad4-b579-4a5f-9428-642aee359b8f/page/sSunB)
     * [Danh sách khách hàng](https://app.powerbi.com/groups/25bfcf5d-fb4f-486b-ac77-16657c6dd088/reports/fdab951d-bedc-4d8c-88ff-7b151dc998c8/ReportSection)
     * [Báo cáo dữ liệu Bao-Kiện hàng](https://app.powerbi.com/groups/25bfcf5d-fb4f-486b-ac77-16657c6dd088/reports/11a01a37-5bd6-4668-91cc-73df44dff1b4/ReportSection)
-    * [Báo cáo vận hành kho Quảng Châu(https://app.powerbi.com/groups/25bfcf5d-fb4f-486b-ac77-16657c6dd088/reports/b0a4dac2-25fa-41ba-8289-89930bd5f733/ReportSection)
+    * [Báo cáo vận hành kho Quảng Châu](https://app.powerbi.com/groups/25bfcf5d-fb4f-486b-ac77-16657c6dd088/reports/b0a4dac2-25fa-41ba-8289-89930bd5f733/ReportSection)
     * [Thông tin tài chính khách hàng](https://app.powerbi.com/groups/25bfcf5d-fb4f-486b-ac77-16657c6dd088/reports/f3a0188c-628e-4302-868f-f0fa1a06bdc3/ReportSection)
     * [Thống kê chi tiết đơn](https://app.powerbi.com/groups/25bfcf5d-fb4f-486b-ac77-16657c6dd088/reports/f379d4f8-bb35-43d5-93de-a629bf4b7610/ReportSection)
     * [Total Cashflow](https://app.powerbi.com/groups/25bfcf5d-fb4f-486b-ac77-16657c6dd088/reports/e40d27e2-63d3-42ca-a96b-d8b9888994ff/ReportSectionb6d5a556209bd47b3c72)
