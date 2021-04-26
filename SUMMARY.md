@@ -34,4 +34,12 @@
     * [ALI-Kiện hàng vận chuyển chậm](https://datastudio.google.com/u/0/reporting/2ec5137c-c131-4b22-98a2-fca2acbc8759/page/VaBkB)
     * [DS kiện TMĐT chuyển line khác](https://datastudio.google.com/u/0/reporting/7cdd2992-6798-43d4-8b6f-3733a3f7fd4d/page/2NAAC)
     * [Gobiz giao dịch mặc cả](https://datastudio.google.com/u/0/reporting/2a942a3d-0f0a-4343-9230-ed50d8f5542c/page/FRaxB)
+* SHIPPO-CB WORKSPACE
+    * [Sản lượng khách hàng theo tỉnh thành](https://datastudio.google.com/u/0/reporting/50006ab3-964c-4ceb-833f-573065bcd7a0/page/P4BqB)
+    * [Danh sách kiện lỗi đang lưu kho](https://datastudio.google.com/u/0/reporting/32718c67-f876-44c5-8ad0-d781dd4eeb18/page/DGpCC)
+    * [Danh sách kiện in tem tiểu ngạch](https://datastudio.google.com/u/0/reporting/682b49a8-d62e-4da9-a589-a92b8e50664d/page/S7lvB)
+    * [Kiểm soát tem TMDT](https://datastudio.google.com/u/0/reporting/c38eb489-893a-4fe1-92ce-e2910884bc64/page/P4BqB)
+    * [Kho phân phối theo đơn mới nhất của user](https://datastudio.google.com/u/0/reporting/57bd4b28-09db-4beb-a30f-aa7e7bf6053a/page/P4BqB)
+    * [Chi tiết Categories nhập qua ShippoCB](https://datastudio.google.com/u/0/reporting/ccee7a0a-77f3-40f2-a4ac-a89c2a3c0cfb/page/jlz9B)
+    * [Tình hình khớp đơn và dùng extension](https://datastudio.google.com/u/0/reporting/e7291ad4-b579-4a5f-9428-642aee359b8f/page/sSunB)
     
