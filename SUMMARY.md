@@ -56,4 +56,18 @@
     * [CSKH](https://app.powerbi.com/groups/047506d5-7964-42d2-8026-bee1229f169f/reports/87974874-0fdd-4daf-949e-4c91989b029e/ReportSection)
     * [Vận chuyển quốc tế](https://app.powerbi.com/groups/047506d5-7964-42d2-8026-bee1229f169f/reports/9f53a921-3509-4b10-a40c-930a33422a03/ReportSection84932f5c1e263ce35562)
     * [Thống kê chi tiết đơn theo trạng thái](https://app.powerbi.com/groups/047506d5-7964-42d2-8026-bee1229f169f/reports/af05cacf-e38a-4efa-868a-f6715654fb67/ReportSection)
-    
+* VELA WORKSPACE
+    * [BUSINESS OVERVIEW DASHBOARD](https://datastudio.google.com/reporting/3cf9087a-d3d9-4db2-a9aa-5065a4c06fde/page/TZ1uB)
+    * [Work Date Dingtalk](https://datastudio.google.com/u/0/reporting/a0bc3318-7488-439c-917e-b557c9631383/page/o5BqB)
+* ADMIN WORKSPACE
+    * [Báo cáo thống kê khách hàng theo Ref](https://datastudio.google.com/reporting/99df5ec0-2170-46a4-b215-d13346749936/page/o5BqB)
+    * [Chi tiết đối soát (123po, orderhang, baogam, shippo-cb)](https://app.powerbi.com/groups/c555e92f-4c4c-4fcd-b1a2-90efd8279ce3/reports/c47f9007-b8b6-45c0-ab90-d3766c18857d/ReportSection)
+    * [Chi tiết đối soát (eorder)](https://app.powerbi.com/groups/c555e92f-4c4c-4fcd-b1a2-90efd8279ce3/reports/ef1ce82c-cbba-48ab-bf92-5204e55c659c/ReportSection6146a3987cf490d570c5)
+    * [Marketing: Báo cáo thống kê khách hàng theo Ref](https://datastudio.google.com/reporting/3979ab98-3fdd-495e-bde9-47d5e1836570)
+* UBOX WORKSPACE
+    * [Chi tiết đơn hàng](https://datastudio.google.com/u/0/reporting/19f66b85-f682-492f-9e83-46f12af1f614/page/o5BqB)
+    * [Chi tiết đơn hàng theo mã hóa đơn](https://datastudio.google.com/u/0/reporting/a0294be7-4760-4b12-9a7a-683c05fa3c17/page/P4BqB)
+    * [Chi tiết đơn hàng đã nhận](https://datastudio.google.com/u/0/reporting/5af327ed-f679-4eec-85e3-cac824b0cb26/page/Nb1BC)
+    * [Chi tiết đối soát (123po, orderhang, baogam, shippo-cb)](https://app.powerbi.com/groups/c555e92f-4c4c-4fcd-b1a2-90efd8279ce3/reports/c47f9007-b8b6-45c0-ab90-d3766c18857d/ReportSection)
+    * [Chi tiết đối soát (eorder)](https://app.powerbi.com/groups/c555e92f-4c4c-4fcd-b1a2-90efd8279ce3/reports/ef1ce82c-cbba-48ab-bf92-5204e55c659c/ReportSection6146a3987cf490d570c5)
+    * [Marketing: Báo cáo thống kê khách hàng theo Ref](https://datastudio.google.com/reporting/3979ab98-3fdd-495e-bde9-47d5e1836570)
