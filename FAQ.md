@@ -4,7 +4,7 @@
 
 *Vui lòng liên hệ: nguyenvanquy@gobiz.vn hoặc phamhoanghai@gobiz.vn*
 
-**2. Các bước để thực hiện yêu cầu thêm báo cáo?**
+**2. Các bước để thực hiện yêu cầu thêm báo cáo là gì?**
 
 *2.1. Thống nhất với quản lý/ trưởng bộ phận*
 
