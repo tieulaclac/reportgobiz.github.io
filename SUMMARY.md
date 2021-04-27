@@ -71,3 +71,6 @@
     * [Chi tiết đối soát (123po, orderhang, baogam, shippo-cb)](https://app.powerbi.com/groups/c555e92f-4c4c-4fcd-b1a2-90efd8279ce3/reports/c47f9007-b8b6-45c0-ab90-d3766c18857d/ReportSection)
     * [Chi tiết đối soát (eorder)](https://app.powerbi.com/groups/c555e92f-4c4c-4fcd-b1a2-90efd8279ce3/reports/ef1ce82c-cbba-48ab-bf92-5204e55c659c/ReportSection6146a3987cf490d570c5)
     * [Marketing: Báo cáo thống kê khách hàng theo Ref](https://datastudio.google.com/reporting/3979ab98-3fdd-495e-bde9-47d5e1836570)
+    
+* ALI-KHO WORKSPACE
+    * [Báo cáo vận chuyển hàng lô](https://datastudio.google.com/u/0/reporting/fe0d6f78-dcbe-4a37-a034-ac05fa73778f/page/P4BqB)
