@@ -74,3 +74,6 @@
     
 * ALI-KHO WORKSPACE
     * [Báo cáo vận chuyển hàng lô](https://datastudio.google.com/u/0/reporting/fe0d6f78-dcbe-4a37-a034-ac05fa73778f/page/P4BqB)
+    * [B/c tồn kho](https://datastudio.google.com/reporting/78d12ee4-bf04-4540-be74-9496ee89b9c9/page/ejLpB)
+    * [BAOGAM - KHO VC - VC QT](https://datastudio.google.com/u/0/reporting/02fdb948-770f-4639-af5b-f7fcffa3f16d/page/jHroB)
+    * [SEUDO - KHO VC - VC QT](https://datastudio.google.com/reporting/da359a99-60a5-43bf-a507-f5f7cf3e2408/page/3hxoB)
