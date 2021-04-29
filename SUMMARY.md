@@ -77,5 +77,5 @@
     * [B/c tồn kho](https://datastudio.google.com/reporting/78d12ee4-bf04-4540-be74-9496ee89b9c9/page/ejLpB)
     * [BAOGAM - KHO VC - VC QT](https://datastudio.google.com/u/0/reporting/02fdb948-770f-4639-af5b-f7fcffa3f16d/page/jHroB)
     * [SEUDO - KHO VC - VC QT](https://datastudio.google.com/reporting/da359a99-60a5-43bf-a507-f5f7cf3e2408/page/3hxoB)
-* MUA HÀNG - NCC- WORKSPACE
+* MUA HÀNG - NCC WORKSPACE
     * [Báo cáo tỷ lệ chiết khấu theo NCC](https://datastudio.google.com/u/0/reporting/b49c3a2b-e15b-48fc-bbd4-d7997619f191/page/P4BqB)
