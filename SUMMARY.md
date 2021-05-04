@@ -34,6 +34,8 @@
     * [ALI-Kiện hàng vận chuyển chậm](https://datastudio.google.com/u/0/reporting/2ec5137c-c131-4b22-98a2-fca2acbc8759/page/VaBkB)
     * [DS kiện TMĐT chuyển line khác](https://datastudio.google.com/u/0/reporting/7cdd2992-6798-43d4-8b6f-3733a3f7fd4d/page/2NAAC)
     * [Gobiz giao dịch mặc cả](https://datastudio.google.com/u/0/reporting/2a942a3d-0f0a-4343-9230-ed50d8f5542c/page/FRaxB)
+    * [Baogam giao dịch mặc cả](https://datastudio.google.com/reporting/72eea9e6-b100-4fcb-a44a-a7a51f4a0a8b/page/o5BqB)
+    * [Nhaphang giao dịch mặc cả](https://datastudio.google.com/reporting/76eeceb0-f506-4fa4-a3ac-79ca8e76f1c2/page/o5BqB)
 * SHIPPO-CB WORKSPACE
     * [Sản lượng khách hàng theo tỉnh thành](https://datastudio.google.com/u/0/reporting/50006ab3-964c-4ceb-833f-573065bcd7a0/page/P4BqB)
     * [Danh sách kiện lỗi đang lưu kho](https://datastudio.google.com/u/0/reporting/32718c67-f876-44c5-8ad0-d781dd4eeb18/page/DGpCC)
