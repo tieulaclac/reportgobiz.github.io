@@ -25,7 +25,7 @@
     * [ALI-Doanh số QH khách hàng](https://datastudio.google.com/u/0/reporting/9edb3ff7-377f-468d-b4e7-d91ccf1d79fe/page/o5BqB)
     * [Baogam.com-Báo cáo nợ xấu](https://datastudio.google.com/u/0/reporting/b831eb56-58ef-4dfe-8587-1eb5a2b87c9d/page/S3ypB)
     * [Baogam.com-Báo cáo kiểm soát đơn hàng](https://datastudio.google.com/u/0/reporting/13239218-bd13-4fba-ae15-28449f2f0dce/page/P4BqB)
-    * [Baogam.com-Báo cáo kiện hàng](https://datastudio.google.com/u/0/reporting/8bd2feff-dcaa-484a-8688-84e8dc2d377a/page/QAEqB)
+    * [Baogam.com-Báo cáo kiện hàng](https://datastudio.google.com/u/0/reporting/336c52c5-68e4-4ac4-aec2-eac30d7be53f/page/QAEqB/edit)
     * [Baogam.com-Báo cáo sửa thông tin order](https://datastudio.google.com/u/0/reporting/149362f7-167c-4256-92d5-808cd78c45fe/page/q6zpB)
     * [Dữ liệu chi tiết mua hàng](https://datastudio.google.com/u/0/reporting/c6c687bc-a59c-48e9-a12c-bf6a9d2d0c57/page/o5BqB)
     * [Eorder_BC-Kiểm soát đơn hàng](https://datastudio.google.com/u/0/reporting/9caea7d5-df19-4bfb-b295-e101a7c84e68/page/P4BqB)    
