@@ -26,6 +26,7 @@
     * [Baogam.com-Báo cáo kiểm soát đơn hàng](https://datastudio.google.com/u/0/reporting/13239218-bd13-4fba-ae15-28449f2f0dce/page/P4BqB)
     * [Baogam.com-Báo cáo kiện hàng](https://datastudio.google.com/u/0/reporting/336c52c5-68e4-4ac4-aec2-eac30d7be53f/page/QAEqB/edit)
     * [Orderhang/Eorder/123po/Baogamvn- Báo cáo kiện hàng](https://datastudio.google.com/reporting/db6f00ae-7d5b-4dd3-9a63-862dc0561217/page/P4BqB)
+    * [Orderhang/Eorder/123po/Baogamvn- Báo cáo nợ xấu](https://datastudio.google.com/u/0/reporting/82f326da-47d5-4c28-9c1f-4cf529d133ab/page/6H8nB)
     * [Dữ liệu chi tiết mua hàng](https://datastudio.google.com/u/0/reporting/c6c687bc-a59c-48e9-a12c-bf6a9d2d0c57/page/o5BqB)
     * [Eorder_BC-Kiểm soát đơn hàng](https://datastudio.google.com/u/0/reporting/9caea7d5-df19-4bfb-b295-e101a7c84e68/page/P4BqB)    
     * [Orderhang-Kiểm soát đơn hàng](https://datastudio.google.com/u/0/reporting/09ad8c41-3900-402e-a235-ef2b67e63c6b/page/P4BqB)
