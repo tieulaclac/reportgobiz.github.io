@@ -7,6 +7,7 @@
     * [Danh sách user trùng contact nhận hàng](https://datastudio.google.com/u/0/reporting/6503b4e0-1aad-4002-ad42-7b4c4c6aedc9/page/T3MkB)
     * [Tình hình sử dụng API đồng bộ thông tin với 1688](https://datastudio.google.com/u/0/reporting/a19b80d2-d547-405d-9325-173b33dd8434/page/T3MkB)
     * [Giao dịch nhà cung cấp](https://datastudio.google.com/u/0/reporting/070e1e13-573c-4673-a544-7213cd42302c/page/KSjjB)
+    * [Số dư Account](https://datastudio.google.com/u/0/reporting/bba5ec69-d9a6-45d4-a1f9-3ee12d4a8209/page/P4BqB)
 
 * ALI-KSCLDV WORKSPACE
     * [ALI-Thống kê SL Bao Hàng đi TMDT](https://datastudio.google.com/u/0/reporting/da9180be-0c92-4ea0-a216-ac370c9f3f36/page/P4BqB)
@@ -20,7 +21,7 @@
     * [Báo cáo lệch dữ liệu M5 - Nhaphang/Baogam](https://datastudio.google.com/u/0/reporting/610a36d6-195e-40af-a1b7-5182741293bd/page/P4BqB)
     * [ALI-Báo cáo nợ xấu](https://datastudio.google.com/u/0/reporting/6f46b222-8e31-44df-a7e4-547ef800e3aa/page/UoUoB)
     * [ALI-Báo cáo khiếu nại người bán](https://datastudio.google.com/u/0/reporting/16a0075d-bd6b-402e-9d48-47b30a7a76be/page/QAEqB)
-    * [ALI-Báo cáo kiểm soát đơn hàng](https://datastudio.google.com/u/0/reporting/7eb3d8de-75b4-4e25-85d5-abd1da6c352a/page/P4BqB)
+    * [ALI-Báo cáo kiểm soát đơn hàng](https://datastudio.google.com/u/0/reporting/fec01857-856f-4c9e-8e16-552139aa7b32/page/P4BqB)
     * [ALI- Báo cáo kiện hàng](https://datastudio.google.com/u/0/reporting/663e41db-d232-490a-a74c-54a2d3fa519d/page/QAEqB)
     * [ALI-Doanh số QH khách hàng](https://datastudio.google.com/u/0/reporting/9edb3ff7-377f-468d-b4e7-d91ccf1d79fe/page/o5BqB)
     * [Baogam.com-Báo cáo nợ xấu](https://datastudio.google.com/u/0/reporting/b831eb56-58ef-4dfe-8587-1eb5a2b87c9d/page/S3ypB)
@@ -29,8 +30,6 @@
     * [Orderhang/Eorder/123po/Baogamvn- Báo cáo kiện hàng](https://datastudio.google.com/reporting/db6f00ae-7d5b-4dd3-9a63-862dc0561217/page/P4BqB)
     * [Orderhang/Eorder/123po/Baogamvn- Báo cáo nợ xấu](https://datastudio.google.com/u/0/reporting/82f326da-47d5-4c28-9c1f-4cf529d133ab/page/6H8nB)
     * [Dữ liệu chi tiết mua hàng](https://datastudio.google.com/u/0/reporting/c6c687bc-a59c-48e9-a12c-bf6a9d2d0c57/page/o5BqB)
-    * [Eorder_BC-Kiểm soát đơn hàng](https://datastudio.google.com/u/0/reporting/9caea7d5-df19-4bfb-b295-e101a7c84e68/page/P4BqB)    
-    * [Orderhang-Kiểm soát đơn hàng](https://datastudio.google.com/u/0/reporting/09ad8c41-3900-402e-a235-ef2b67e63c6b/page/P4BqB)
     * [ALI-Báo cáo kiểm soát hàng tại Việt Nam](https://datastudio.google.com/u/0/reporting/87630eda-2304-4f2e-bb49-8e00b430a2b1/page/o5BqB)
     * [ALI-Kiện hàng vận chuyển chậm](https://datastudio.google.com/u/0/reporting/2ec5137c-c131-4b22-98a2-fca2acbc8759/page/VaBkB)
     * [DS kiện TMĐT chuyển line khác](https://datastudio.google.com/u/0/reporting/7cdd2992-6798-43d4-8b6f-3733a3f7fd4d/page/2NAAC)
@@ -41,6 +40,9 @@
     * [Báo cáo chuyển tiền cho đối tác tệ](https://datastudio.google.com/u/0/reporting/a5b045de-3928-47e2-a24c-c80847fdf476/page/aejGC)
     * [Số dư khách hàng](https://datastudio.google.com/u/0/reporting/d690a0aa-263e-4ee7-9d16-4c1a27388b03/page/PojGC)
     * [BC Kiểm soát đơn hàng](https://datastudio.google.com/reporting/9caea7d5-df19-4bfb-b295-e101a7c84e68/page/P4BqB/edit)
+    * [Thông tin thụ hưởng](https://datastudio.google.com/reporting/f66b29bb-a3c2-4dbe-9550-9baf4c2c7852/page/H3XHC)
+    * [Báo cáo check trùng user](https://datastudio.google.com/u/0/reporting/f89589e3-5aad-48d0-bf70-f4a99d256ea3/page/P4BqB/edit)
+    * [Giao dịch chi tiết trên các ví](https://datastudio.google.com/u/0/reporting/40fa7f10-94e5-457d-b15b-413889d82560/page/o5BqB/edit)
 * SHIPPO-CB WORKSPACE
     * [Sản lượng khách hàng theo tỉnh thành](https://datastudio.google.com/u/0/reporting/50006ab3-964c-4ceb-833f-573065bcd7a0/page/P4BqB)
     * [Danh sách kiện lỗi đang lưu kho](https://datastudio.google.com/u/0/reporting/32718c67-f876-44c5-8ad0-d781dd4eeb18/page/DGpCC)
@@ -55,14 +57,15 @@
     * [Thông tin tài chính khách hàng](https://datastudio.google.com/u/0/reporting/8d97cfeb-0aae-4592-84dd-e4eaefd9e197/page/P4BqB)
     * [Thống kê chi tiết đơn](https://datastudio.google.com/u/0/reporting/522f8ecd-4e9b-4728-bde0-44c265063e18/page/P4BqB)
     * [Total Cashflow](https://datastudio.google.com/u/0/reporting/1a73cbd2-57f3-401c-9adb-82c485fd0bb1/page/OsLoB)
-    * [Báo cáo kiện hàng](https://app.powerbi.com/groups/047506d5-7964-42d2-8026-bee1229f169f/reports/b0db2b7e-0199-4091-ae42-3a25815ddd69/ReportSectionB) 
+    * [Báo cáo kiện hàng](https://datastudio.google.com/u/0/reporting/c54b4499-5d89-4415-9c92-9072a9cb10a2/page/9i2GC) 
     * [Sản lượng kho CNGZ](https://app.powerbi.com/groups/047506d5-7964-42d2-8026-bee1229f169f/reports/14663080-1614-4fed-8e1c-40a029cb0dac/ReportSectionc46164fce087b8918d20)
     * [Thông tin khách hàng](https://app.powerbi.com/groups/047506d5-7964-42d2-8026-bee1229f169f/reports/51ac6154-416e-4126-988a-12a91359869a/ReportSection)
-    * [Kho QC- VC quốc tế](https://app.powerbi.com/groups/047506d5-7964-42d2-8026-bee1229f169f/reports/b44caeca-b135-4439-97f7-92b06a809092/ReportSection111f10177155028012db)
+    * [Kho QC- VC quốc tế](https://datastudio.google.com/u/0/reporting/923fc503-b49c-4b44-92f2-883da0b54a6a/page/kmTHC)
     * [Báo cáo vận hành kho Quảng Châu](https://app.powerbi.com/groups/047506d5-7964-42d2-8026-bee1229f169f/reports/5055b4ba-1379-4338-8a82-0ace5ce3f144/ReportSection)
     * [CSKH](https://app.powerbi.com/groups/047506d5-7964-42d2-8026-bee1229f169f/reports/87974874-0fdd-4daf-949e-4c91989b029e/ReportSection)
     * [Vận chuyển quốc tế](https://app.powerbi.com/groups/047506d5-7964-42d2-8026-bee1229f169f/reports/9f53a921-3509-4b10-a40c-930a33422a03/ReportSection84932f5c1e263ce35562)
     * [Thống kê chi tiết đơn theo trạng thái](https://app.powerbi.com/groups/047506d5-7964-42d2-8026-bee1229f169f/reports/af05cacf-e38a-4efa-868a-f6715654fb67/ReportSection)
+    * [Số dư Account](https://datastudio.google.com/u/0/reporting/67e23aba-efb0-4cd1-bf21-097015eb3ab1/page/P4BqB)
 * VELA WORKSPACE
     * [BUSINESS OVERVIEW DASHBOARD](https://datastudio.google.com/reporting/3cf9087a-d3d9-4db2-a9aa-5065a4c06fde/page/TZ1uB)
     * [Work Date Dingtalk](https://datastudio.google.com/u/0/reporting/a0bc3318-7488-439c-917e-b557c9631383/page/o5BqB)
@@ -78,6 +81,7 @@
     * [Chi tiết đối soát (123po, orderhang, baogam, shippo-cb)](https://app.powerbi.com/groups/c555e92f-4c4c-4fcd-b1a2-90efd8279ce3/reports/c47f9007-b8b6-45c0-ab90-d3766c18857d/ReportSection)
     * [Chi tiết đối soát (eorder)](https://app.powerbi.com/groups/c555e92f-4c4c-4fcd-b1a2-90efd8279ce3/reports/ef1ce82c-cbba-48ab-bf92-5204e55c659c/ReportSection6146a3987cf490d570c5)
     * [Marketing: Báo cáo thống kê khách hàng theo Ref](https://datastudio.google.com/reporting/3979ab98-3fdd-495e-bde9-47d5e1836570)
+    * [Số dư Account](https://datastudio.google.com/u/0/reporting/340416ed-414c-4dd2-bcfe-b8a2717deb42/page/P4BqB)
     
 * ALI-KHO WORKSPACE
     * [Báo cáo vận chuyển hàng lô](https://datastudio.google.com/u/0/reporting/fe0d6f78-dcbe-4a37-a034-ac05fa73778f/page/P4BqB)
