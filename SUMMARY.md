@@ -13,6 +13,7 @@
     * [Dữ liệu kiện không nằm trong bao nào kho hiện tại kiện là Quảng Châu](https://datastudio.google.com/u/0/reporting/2cbda203-7bee-4fe7-a6d5-6f53c2a51e06/page/P4BqB)
     * [Kiểm soát đơn âm không có KNNB và giao dịch KNNB Alipay](https://datastudio.google.com/u/0/reporting/12d6f6fa-ec3e-487d-9fcb-9b2296d74e43/page/o5BqB)
     * [Tổng hợp thu chi trên các Web TCNB](https://datastudio.google.com/u/0/reporting/96df5d18-18a6-4105-8224-133bcf7ac72a/page/P4BqB)
+    * [Báo cáo tổng hợp các TK Tiền VND](https://datastudio.google.com/u/0/reporting/7a96c18a-68a3-4301-8b0e-f46a3b93ed15/page/P4BqB)
     * [Thống kê phí trả hàng](https://datastudio.google.com/u/0/reporting/7b56b1d0-0ffb-4ca1-9db5-9e655e4ff21f/page/P4BqB)
     * [Báo cáo Kiểm soát bao hàng](https://datastudio.google.com/u/0/reporting/ee41c5ea-7904-4209-b66b-d6c8488fb860/page/P4BqB)
     * [Kiện kho phân phối chưa nhận](https://datastudio.google.com/u/0/reporting/aaa96acd-d0f0-4ab1-8f07-75e8b2c4347d/page/P4BqB)
