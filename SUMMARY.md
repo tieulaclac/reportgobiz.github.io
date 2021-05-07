@@ -90,3 +90,5 @@
     * [SEUDO - KHO VC - VC QT](https://datastudio.google.com/reporting/da359a99-60a5-43bf-a507-f5f7cf3e2408/page/3hxoB)
 * MUA HÀNG - NCC WORKSPACE
     * [Báo cáo tỷ lệ chiết khấu theo NCC](https://datastudio.google.com/u/0/reporting/b49c3a2b-e15b-48fc-bbd4-d7997619f191/page/P4BqB)
+* Bộ phận quỹ - WORKSPACE
+    * [Dự trù tiền đơn hàng](https://datastudio.google.com/u/0/reporting/6c20ba28-32eb-4eaa-85ae-aa9701d1d611/page/P4BqB)
