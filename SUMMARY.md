@@ -8,6 +8,7 @@
     * [Tình hình sử dụng API đồng bộ thông tin với 1688](https://datastudio.google.com/u/0/reporting/a19b80d2-d547-405d-9325-173b33dd8434/page/T3MkB)
     * [Giao dịch nhà cung cấp](https://datastudio.google.com/u/0/reporting/070e1e13-573c-4673-a544-7213cd42302c/page/KSjjB)
     * [Số dư Account](https://datastudio.google.com/u/0/reporting/bba5ec69-d9a6-45d4-a1f9-3ee12d4a8209/page/P4BqB)
+    * [Báo cáo các kiện hàng bị quét chuyển bao](https://datastudio.google.com/u/0/reporting/1e2d8bb7-936a-43a4-bc73-aa876368838f/page/P4BqB)
 
 * ALI-KSCLDV WORKSPACE
     * [ALI-Thống kê SL Bao Hàng đi TMDT](https://datastudio.google.com/u/0/reporting/da9180be-0c92-4ea0-a216-ac370c9f3f36/page/P4BqB)
@@ -44,6 +45,7 @@
     * [Báo cáo check trùng user](https://datastudio.google.com/u/0/reporting/f89589e3-5aad-48d0-bf70-f4a99d256ea3/page/P4BqB/edit)
     * [Giao dịch chi tiết trên các ví](https://datastudio.google.com/u/0/reporting/40fa7f10-94e5-457d-b15b-413889d82560/page/o5BqB/edit)
     * [Thống kê tình hình sử dụng dịch vụ của khách trên các sites](https://datastudio.google.com/u/0/reporting/ae6fa5c5-01f8-47c2-bb58-0863e0604577/page/P4BqB)
+    * [Thống kê tình hình sử dụng dịch vụ của khách](https://datastudio.google.com/u/0/reporting/ae6fa5c5-01f8-47c2-bb58-0863e0604577/page/P4BqB)
 * SHIPPO-CB WORKSPACE
     * [Sản lượng khách hàng theo tỉnh thành](https://datastudio.google.com/u/0/reporting/50006ab3-964c-4ceb-833f-573065bcd7a0/page/P4BqB)
     * [Danh sách kiện lỗi đang lưu kho](https://datastudio.google.com/u/0/reporting/32718c67-f876-44c5-8ad0-d781dd4eeb18/page/DGpCC)
