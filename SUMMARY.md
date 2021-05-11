@@ -82,7 +82,6 @@
     * [Chi tiết đối soát (eorder)](https://app.powerbi.com/groups/c555e92f-4c4c-4fcd-b1a2-90efd8279ce3/reports/ef1ce82c-cbba-48ab-bf92-5204e55c659c/ReportSection6146a3987cf490d570c5)
     * [Marketing: Báo cáo thống kê khách hàng theo Ref](https://datastudio.google.com/reporting/3979ab98-3fdd-495e-bde9-47d5e1836570)
     * [Số dư Account](https://datastudio.google.com/u/0/reporting/340416ed-414c-4dd2-bcfe-b8a2717deb42/page/P4BqB)
-    
 * ALI-KHO WORKSPACE
     * [Báo cáo vận chuyển hàng lô](https://datastudio.google.com/u/0/reporting/fe0d6f78-dcbe-4a37-a034-ac05fa73778f/page/P4BqB)
     * [B/c tồn kho](https://datastudio.google.com/reporting/78d12ee4-bf04-4540-be74-9496ee89b9c9/page/ejLpB)
@@ -92,3 +91,8 @@
     * [Báo cáo tỷ lệ chiết khấu theo NCC](https://datastudio.google.com/u/0/reporting/b49c3a2b-e15b-48fc-bbd4-d7997619f191/page/P4BqB)
 * Bộ phận quỹ - WORKSPACE
     * [Dự trù tiền đơn hàng](https://datastudio.google.com/u/0/reporting/6c20ba28-32eb-4eaa-85ae-aa9701d1d611/page/P4BqB)
+* FOBIZ WORKSPACE
+    * [Báo cáo lãnh đạo](https://datastudio.google.com/u/0/reporting/f8211c7f-0523-4406-b12a-48f6017b4e18/page/o5BqB)
+    * [Báo cáo team Vận Hành](https://datastudio.google.com/u/0/reporting/5eac4a6e-78fc-443b-b866-be0a13e2d1f1/page/2nF6B)
+    * [Báo cáo quản lý](https://datastudio.google.com/u/0/reporting/60611df8-9350-4c33-827a-d042bbabca2c/page/o5BqB)
+    * [Báo cáo đơn tạo theo thời gian](https://datastudio.google.com/u/0/reporting/e5b4d7a7-a0ba-4b65-85fe-4e413e97bc4e/page/P4BqB)
