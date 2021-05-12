@@ -98,3 +98,5 @@
     * [Báo cáo team Vận Hành](https://datastudio.google.com/u/0/reporting/5eac4a6e-78fc-443b-b866-be0a13e2d1f1/page/2nF6B)
     * [Báo cáo quản lý](https://datastudio.google.com/u/0/reporting/60611df8-9350-4c33-827a-d042bbabca2c/page/o5BqB)
     * [Báo cáo đơn tạo theo thời gian](https://datastudio.google.com/u/0/reporting/e5b4d7a7-a0ba-4b65-85fe-4e413e97bc4e/page/P4BqB)
+* ALI-CSKH WORKSPACE
+    * [Thống kê tình trạng sử dụng dịch vụ](https://datastudio.google.com/u/0/reporting/39182934-57de-4b7c-a675-c3b04da5dd2e/page/rRYIC)
