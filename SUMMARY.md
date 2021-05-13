@@ -87,8 +87,6 @@
     * [Chi tiết đơn hàng](https://datastudio.google.com/u/0/reporting/19f66b85-f682-492f-9e83-46f12af1f614/page/o5BqB)
     * [Chi tiết đơn hàng theo mã hóa đơn](https://datastudio.google.com/u/0/reporting/a0294be7-4760-4b12-9a7a-683c05fa3c17/page/P4BqB)
     * [Chi tiết đơn hàng đã nhận](https://datastudio.google.com/u/0/reporting/5af327ed-f679-4eec-85e3-cac824b0cb26/page/Nb1BC)
-    * [Chi tiết đối soát (123po, orderhang, baogam, shippo-cb)](https://app.powerbi.com/groups/c555e92f-4c4c-4fcd-b1a2-90efd8279ce3/reports/c47f9007-b8b6-45c0-ab90-d3766c18857d/ReportSection)
-    * [Chi tiết đối soát (eorder)](https://app.powerbi.com/groups/c555e92f-4c4c-4fcd-b1a2-90efd8279ce3/reports/ef1ce82c-cbba-48ab-bf92-5204e55c659c/ReportSection6146a3987cf490d570c5)
     * [Marketing: Báo cáo thống kê khách hàng theo Ref](https://datastudio.google.com/reporting/3979ab98-3fdd-495e-bde9-47d5e1836570)
     * [Số dư Account](https://datastudio.google.com/u/0/reporting/340416ed-414c-4dd2-bcfe-b8a2717deb42/page/P4BqB)
 * ALI-KHO WORKSPACE
