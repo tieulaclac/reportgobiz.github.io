@@ -87,7 +87,6 @@
     * [Chi tiết đơn hàng](https://datastudio.google.com/u/0/reporting/19f66b85-f682-492f-9e83-46f12af1f614/page/o5BqB)
     * [Chi tiết đơn hàng theo mã hóa đơn](https://datastudio.google.com/u/0/reporting/a0294be7-4760-4b12-9a7a-683c05fa3c17/page/P4BqB)
     * [Chi tiết đơn hàng đã nhận](https://datastudio.google.com/u/0/reporting/5af327ed-f679-4eec-85e3-cac824b0cb26/page/Nb1BC)
-    * [Marketing: Báo cáo thống kê khách hàng theo Ref](https://datastudio.google.com/reporting/3979ab98-3fdd-495e-bde9-47d5e1836570)
     * [Số dư Account](https://datastudio.google.com/u/0/reporting/340416ed-414c-4dd2-bcfe-b8a2717deb42/page/P4BqB)
 * ALI-KHO WORKSPACE
     * [Báo cáo vận chuyển hàng lô](https://datastudio.google.com/u/0/reporting/fe0d6f78-dcbe-4a37-a034-ac05fa73778f/page/P4BqB)
