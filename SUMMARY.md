@@ -108,3 +108,5 @@
     * [Thống kê tình trạng sử dụng dịch vụ](https://datastudio.google.com/u/0/reporting/39182934-57de-4b7c-a675-c3b04da5dd2e/page/rRYIC)
 * GAODO - WORKSPACE
     * [GIAO DỊCH MẶC CẢ- TÀI CHÍNH ĐƠN](https://datastudio.google.com/u/0/reporting/8aadaf9c-3059-4a43-a7d7-0527936ec098/page/P4BqB)
+* 123PO - WORKSPACE
+    * [Khách hàng lên đơn](https://datastudio.google.com/u/0/reporting/a869d199-7491-45af-89d3-bb89755e5a7f/page/23jHC)
