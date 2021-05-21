@@ -110,3 +110,4 @@
     * [GIAO DỊCH MẶC CẢ- TÀI CHÍNH ĐƠN](https://datastudio.google.com/u/0/reporting/8aadaf9c-3059-4a43-a7d7-0527936ec098/page/P4BqB)
 * 123PO - WORKSPACE
     * [Khách hàng lên đơn](https://datastudio.google.com/u/0/reporting/a869d199-7491-45af-89d3-bb89755e5a7f/page/23jHC)
+    * [Báo cáo kiện hàng](https://datastudio.google.com/u/0/reporting/2ed9bb71-9d4b-44c9-a489-8aa7f916e192/page/zhQKC)
