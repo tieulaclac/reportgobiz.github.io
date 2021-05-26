@@ -12,6 +12,7 @@
     * [Báo cáo rủi ro M2-M6](https://datastudio.google.com/u/0/reporting/2343ae7d-c141-4572-b3c9-07264842afdd/page/lQLLC)
     * [Báo cáo rủi ro M2-M5](https://datastudio.google.com/u/0/reporting/30d18062-8d4a-4a18-8b6a-05130696593f/page/P4BqB)
     * [Báo cáo rủi ro tài chính](https://datastudio.google.com/u/0/reporting/f9ddba6f-974c-4f26-aa31-d06ac027fd80/page/DpMLC)
+    * [Báo cáo kiện/đơn lưu kho quá hạn](https://datastudio.google.com/u/0/reporting/b79e94cc-0ee4-44e8-8a02-1758abbf2382/page/o5BqB)
 
 * ALI-KSCLDV WORKSPACE
     * [ALI-Thống kê SL Bao Hàng đi TMDT](https://datastudio.google.com/u/0/reporting/da9180be-0c92-4ea0-a216-ac370c9f3f36/page/P4BqB)
