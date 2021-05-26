@@ -9,6 +9,9 @@
     * [Giao dịch nhà cung cấp](https://datastudio.google.com/u/0/reporting/070e1e13-573c-4673-a544-7213cd42302c/page/KSjjB)
     * [Số dư Account](https://datastudio.google.com/u/0/reporting/bba5ec69-d9a6-45d4-a1f9-3ee12d4a8209/page/P4BqB)
     * [Báo cáo các kiện hàng bị quét chuyển bao](https://datastudio.google.com/u/0/reporting/1e2d8bb7-936a-43a4-bc73-aa876368838f/page/P4BqB)
+    * [Báo cáo rủi ro M2-M6](https://datastudio.google.com/u/0/reporting/2343ae7d-c141-4572-b3c9-07264842afdd/page/lQLLC)
+    * [Báo cáo rủi ro M2-M5](https://datastudio.google.com/u/0/reporting/30d18062-8d4a-4a18-8b6a-05130696593f/page/P4BqB)
+    * [Gobiz System-Báo cáo rủi ro tài chính](https://datastudio.google.com/u/0/reporting/f9ddba6f-974c-4f26-aa31-d06ac027fd80/page/DpMLC)
 
 * ALI-KSCLDV WORKSPACE
     * [ALI-Thống kê SL Bao Hàng đi TMDT](https://datastudio.google.com/u/0/reporting/da9180be-0c92-4ea0-a216-ac370c9f3f36/page/P4BqB)
