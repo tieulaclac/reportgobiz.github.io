@@ -42,7 +42,6 @@
     * [Eorder/Orderhang/Baogamvn/123po - Total Cashflow](https://datastudio.google.com/reporting/c2744be1-d748-46a0-99ab-83530d7f271c/page/UlXqB)
     * [Trích xuất dữ liệu trên 123PO](https://datastudio.google.com/reporting/debd2791-f6b5-435b-9641-2e0d2a00f750/page/o5BqB)
     * [Dữ liệu chi tiết mua hàng](https://datastudio.google.com/u/0/reporting/c6c687bc-a59c-48e9-a12c-bf6a9d2d0c57/page/o5BqB)
-    * [ALI-Báo cáo kiểm soát hàng tại Việt Nam](https://datastudio.google.com/u/0/reporting/87630eda-2304-4f2e-bb49-8e00b430a2b1/page/o5BqB)
     * [ALI-Kiện hàng vận chuyển chậm](https://datastudio.google.com/u/0/reporting/2ec5137c-c131-4b22-98a2-fca2acbc8759/page/VaBkB)
     * [DS kiện TMĐT chuyển line khác](https://datastudio.google.com/u/0/reporting/7cdd2992-6798-43d4-8b6f-3733a3f7fd4d/page/2NAAC)
     * [Gobiz giao dịch mặc cả](https://datastudio.google.com/u/0/reporting/2a942a3d-0f0a-4343-9230-ed50d8f5542c/page/FRaxB)
