@@ -57,6 +57,7 @@
     * [Thống kê tình hình sử dụng dịch vụ của khách trên các sites](https://datastudio.google.com/u/0/reporting/ae6fa5c5-01f8-47c2-bb58-0863e0604577/page/P4BqB)
     * [KSCLDV- Đơn Quảng Châu nhận thiếu thông tin kiện](https://datastudio.google.com/u/0/reporting/754b4117-3d00-47bb-ac44-998d08acccb6/page/P4BqB)
     * [Doanh số sale (OH, EO, BG) trên ali và ezbiz](https://datastudio.google.com/u/0/reporting/d5fc3db7-1891-4c1c-b1f7-21fbb53606ba/page/P4BqB/edit)
+    * [Đơn và kiện lệch trạng thái](https://datastudio.google.com/u/0/reporting/ea2c321c-70bf-479f-a6d0-423129015af3/page/I9YLC)
 
 * SHIPPO-CB WORKSPACE
     * [Sản lượng khách hàng theo tỉnh thành](https://datastudio.google.com/u/0/reporting/50006ab3-964c-4ceb-833f-573065bcd7a0/page/P4BqB)
