@@ -87,8 +87,7 @@
     * [Work Date Dingtalk](https://datastudio.google.com/u/0/reporting/a0bc3318-7488-439c-917e-b557c9631383/page/o5BqB)
 * ADMIN WORKSPACE
     * [Báo cáo thống kê khách hàng theo Ref](https://datastudio.google.com/reporting/99df5ec0-2170-46a4-b215-d13346749936/page/o5BqB)
-    * [Chi tiết đối soát (123po, orderhang, baogam, shippo-cb)](https://app.powerbi.com/groups/c555e92f-4c4c-4fcd-b1a2-90efd8279ce3/reports/c47f9007-b8b6-45c0-ab90-d3766c18857d/ReportSection)
-    * [Chi tiết đối soát (eorder)](https://app.powerbi.com/groups/c555e92f-4c4c-4fcd-b1a2-90efd8279ce3/reports/ef1ce82c-cbba-48ab-bf92-5204e55c659c/ReportSection6146a3987cf490d570c5)
+    * [Chi tiết đối soát (123po, orderhang, baogam, shippo-cb)](https://datastudio.google.com/u/0/reporting/c8df5269-bac8-4f74-900b-29079072bb65/page/7UXLC)
     * [Marketing: Báo cáo thống kê khách hàng theo Ref](https://datastudio.google.com/reporting/3979ab98-3fdd-495e-bde9-47d5e1836570)
 * UBOX WORKSPACE
     * [Chi tiết đơn hàng](https://datastudio.google.com/u/0/reporting/19f66b85-f682-492f-9e83-46f12af1f614/page/o5BqB)
