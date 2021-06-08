@@ -16,6 +16,7 @@
 
 * ALI-KSCLDV WORKSPACE
     * [ALI-Thống kê SL Bao Hàng đi TMDT](https://datastudio.google.com/u/0/reporting/da9180be-0c92-4ea0-a216-ac370c9f3f36/page/P4BqB)
+    * [ALLPROJECT - Báo cáo nợ xấu](https://datastudio.google.com/u/0/reporting/dcabab63-9beb-4e2c-ab12-516a7124515a/page/6H8nB)
     * [Dữ liệu kiện không nằm trong bao nào kho hiện tại kiện là Quảng Châu](https://datastudio.google.com/u/0/reporting/2cbda203-7bee-4fe7-a6d5-6f53c2a51e06/page/P4BqB)
     * [Kiểm soát đơn âm không có KNNB và giao dịch KNNB Alipay](https://datastudio.google.com/u/0/reporting/12d6f6fa-ec3e-487d-9fcb-9b2296d74e43/page/o5BqB)
     * [Tổng hợp thu chi trên các Web TCNB](https://datastudio.google.com/u/0/reporting/96df5d18-18a6-4105-8224-133bcf7ac72a/page/P4BqB)
@@ -33,7 +34,7 @@
     * [Baogam.com-Báo cáo kiểm soát đơn hàng](https://datastudio.google.com/u/0/reporting/13239218-bd13-4fba-ae15-28449f2f0dce/page/P4BqB)
     * [Baogam.com-Báo cáo kiện hàng](https://datastudio.google.com/u/0/reporting/336c52c5-68e4-4ac4-aec2-eac30d7be53f/page/QAEqB/edit)
     * [Orderhang/Eorder/Baogamvn/123po- Báo cáo kiện hàng](https://datastudio.google.com/reporting/db6f00ae-7d5b-4dd3-9a63-862dc0561217/page/P4BqB)
-    * [Orderhang/Eorder/Baogamvn/123po- Báo cáo nợ xấu](https://datastudio.google.com/u/0/reporting/82f326da-47d5-4c28-9c1f-4cf529d133ab/page/6H8nB)
+    * [Orderhang/Eorder/Baogamvn/123po- Báo cáo nợ xấu](https://datastudio.google.com/u/0/reporting/43d8d01f-855f-4376-a0ee-974f83f797fd/page/6H8nB)
     * [Eorder/Orderhang/Baogamvn/123po - Tài chính khách và thống kê Ending Balance theo tháng](https://datastudio.google.com/reporting/d751d180-fc6e-4d79-82af-0b7fdde3b9ae/page/vFMoB)
     * [Eorder/Orderhang/Baogamvn/123po - Báo cáo kiểm kê thời điểm hiện tại](https://datastudio.google.com/reporting/76ab7fc7-a3f5-4a63-b9e0-0fe7bba0c58d/page/SEiqB)
     * [Eorder/Orderhang/Baogamvn/123po - Giao dịch đặt cọc và thanh toán](https://datastudio.google.com/reporting/299608df-1754-4734-830c-4ba3bb12e93e/page/EVKoB)
