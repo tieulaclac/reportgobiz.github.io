@@ -89,6 +89,7 @@
     * [Báo cáo thống kê khách hàng theo Ref](https://datastudio.google.com/reporting/99df5ec0-2170-46a4-b215-d13346749936/page/o5BqB)
     * [Chi tiết đối soát (123po, orderhang, baogam, shippo-cb)](https://datastudio.google.com/u/0/reporting/c8df5269-bac8-4f74-900b-29079072bb65/page/7UXLC)
     * [Marketing: Báo cáo thống kê khách hàng theo Ref](https://datastudio.google.com/reporting/3979ab98-3fdd-495e-bde9-47d5e1836570)
+    * [Tổng quan chỉ số vận hành Shippo](https://datastudio.google.com/u/0/reporting/0d0a103a-a703-4972-af2a-d1ddcabd15c5/page/P4BqB/edit)
 * UBOX WORKSPACE
     * [Chi tiết đơn hàng](https://datastudio.google.com/u/0/reporting/19f66b85-f682-492f-9e83-46f12af1f614/page/o5BqB)
     * [Chi tiết đơn hàng theo mã hóa đơn](https://datastudio.google.com/u/0/reporting/a0294be7-4760-4b12-9a7a-683c05fa3c17/page/P4BqB)
