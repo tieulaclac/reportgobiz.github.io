@@ -26,6 +26,7 @@
     * [Kiện kho phân phối chưa nhận](https://datastudio.google.com/u/0/reporting/aaa96acd-d0f0-4ab1-8f07-75e8b2c4347d/page/P4BqB)
     * [Báo cáo lệch dữ liệu M5 - Nhaphang/Baogam](https://datastudio.google.com/u/0/reporting/610a36d6-195e-40af-a1b7-5182741293bd/page/P4BqB)
     * [ALI-Báo cáo nợ xấu](https://datastudio.google.com/u/0/reporting/6f46b222-8e31-44df-a7e4-547ef800e3aa/page/UoUoB)
+    * [ALI-Báo cáo nợ xấu theo kho](https://datastudio.google.com/u/0/reporting/acac2753-712a-4e6a-bf69-6137b643ed4b/page/6H8nB)
     * [ALI-Báo cáo khiếu nại người bán](https://datastudio.google.com/u/0/reporting/16a0075d-bd6b-402e-9d48-47b30a7a76be/page/QAEqB)
     * [ALI-Báo cáo kiểm soát đơn hàng](https://datastudio.google.com/u/0/reporting/fec01857-856f-4c9e-8e16-552139aa7b32/page/P4BqB)
     * [ALI- Báo cáo kiện hàng](https://datastudio.google.com/u/0/reporting/663e41db-d232-490a-a74c-54a2d3fa519d/page/QAEqB)
