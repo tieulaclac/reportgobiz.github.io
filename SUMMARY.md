@@ -82,7 +82,7 @@
     * [Vận chuyển quốc tế](https://datastudio.google.com/u/0/reporting/72a0c94c-2207-4a6b-89b4-0b2066f4153e/page/P4BqB)
     * [Thống kê chi tiết đơn theo trạng thái](https://datastudio.google.com/u/0/reporting/f1a6d96e-0aa3-4549-8191-a328d22c1bf5/page/82aIC/edit)
     * [Số dư Account](https://datastudio.google.com/u/0/reporting/67e23aba-efb0-4cd1-bf21-097015eb3ab1/page/P4BqB)
-    * [Tỷ lệ giữ châ khách hàng cũ](https://datastudio.google.com/u/0/reporting/6a328c3d-2273-4364-b5fd-9934422e7c61/page/EdHOC)
+    * [Tỷ lệ giữ chân khách hàng cũ](https://datastudio.google.com/u/0/reporting/6a328c3d-2273-4364-b5fd-9934422e7c61/page/EdHOC)
 * VELA WORKSPACE
     * [BUSINESS OVERVIEW DASHBOARD](https://datastudio.google.com/reporting/3cf9087a-d3d9-4db2-a9aa-5065a4c06fde/page/TZ1uB)
     * [Work Date Dingtalk](https://datastudio.google.com/u/0/reporting/a0bc3318-7488-439c-917e-b557c9631383/page/o5BqB)
