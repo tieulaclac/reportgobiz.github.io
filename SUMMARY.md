@@ -44,7 +44,6 @@
     * [Eorder/Orderhang/Baogamvn/123po - Total Cashflow](https://datastudio.google.com/reporting/c2744be1-d748-46a0-99ab-83530d7f271c/page/UlXqB)
     * [Trích xuất dữ liệu trên 123PO](https://datastudio.google.com/reporting/debd2791-f6b5-435b-9641-2e0d2a00f750/page/o5BqB)
     * [Dữ liệu chi tiết mua hàng](https://datastudio.google.com/u/0/reporting/c6c687bc-a59c-48e9-a12c-bf6a9d2d0c57/page/o5BqB)
-    * [DS kiện TMĐT chuyển line khác](https://datastudio.google.com/u/0/reporting/7cdd2992-6798-43d4-8b6f-3733a3f7fd4d/page/2NAAC)
     * [Giao dịch mặc cả](https://datastudio.google.com/reporting/1d1327f8-9b26-4730-9777-228c3eb3b293/page/FRaxB/edit)
     * [Báo cáo sửa thông tin order](https://datastudio.google.com/reporting/149362f7-167c-4256-92d5-808cd78c45fe/page/q6zpB)
     * [Số dư khách hàng](https://datastudio.google.com/u/0/reporting/d690a0aa-263e-4ee7-9d16-4c1a27388b03/page/PojGC)
