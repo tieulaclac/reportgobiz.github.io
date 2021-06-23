@@ -56,6 +56,7 @@
     * [Doanh số sale (OH, EO, BG) trên ali và ezbiz](https://datastudio.google.com/u/0/reporting/d5fc3db7-1891-4c1c-b1f7-21fbb53606ba/page/P4BqB/edit)
     * [Đơn và kiện lệch trạng thái](https://datastudio.google.com/u/0/reporting/ea2c321c-70bf-479f-a6d0-423129015af3/page/I9YLC)
     * [Thống kê sản lượng kho PP VN](https://datastudio.google.com/u/0/reporting/2781e1ab-f6d8-4713-9d17-00a54d6c4276/page/P4BqB)
+    * [Eorder/ Orderhang/Baogamvn- Báo cáo giá vốn kiện hàng](https://datastudio.google.com/u/0/reporting/3b7da9f5-1e52-401d-9b60-fc1859282c21/page/P4BqB)
 
 * SHIPPO-CB WORKSPACE
     * [Sản lượng khách hàng theo tỉnh thành](https://datastudio.google.com/u/0/reporting/50006ab3-964c-4ceb-833f-573065bcd7a0/page/P4BqB)
