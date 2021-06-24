@@ -3,7 +3,6 @@
 * [Câu hỏi thường gặp](FAQ.md)
 
 * GOBIZ WORKSPACE
-    * [giangtest](https://dantri.com.vn/)
     * [THống kê hàng hóa tích chọn ngành hàng](https://datastudio.google.com/u/0/reporting/cf9d776a-c810-4e0a-955e-91f2028b1994/page/tO0BC)
     * [Danh sách user trùng contact nhận hàng](https://datastudio.google.com/u/0/reporting/6503b4e0-1aad-4002-ad42-7b4c4c6aedc9/page/T3MkB)
     * [Tình hình sử dụng API đồng bộ thông tin với 1688](https://datastudio.google.com/u/0/reporting/a19b80d2-d547-405d-9325-173b33dd8434/page/T3MkB)
