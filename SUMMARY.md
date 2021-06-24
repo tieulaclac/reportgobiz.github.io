@@ -57,6 +57,7 @@
     * [Đơn và kiện lệch trạng thái](https://datastudio.google.com/u/0/reporting/ea2c321c-70bf-479f-a6d0-423129015af3/page/I9YLC)
     * [Thống kê sản lượng kho PP VN](https://datastudio.google.com/u/0/reporting/2781e1ab-f6d8-4713-9d17-00a54d6c4276/page/P4BqB)
     * [Eorder/ Orderhang/Baogamvn- Báo cáo giá vốn kiện hàng](https://datastudio.google.com/u/0/reporting/3b7da9f5-1e52-401d-9b60-fc1859282c21/page/P4BqB)
+    * [ALI-Thống kê đơn tích chọn TMĐT](https://datastudio.google.com/u/0/reporting/13bae432-ebf7-49c5-bd97-dc4dbe9f4db1/page/oaPQC)
 
 * SHIPPO-CB WORKSPACE
     * [Sản lượng khách hàng theo tỉnh thành](https://datastudio.google.com/u/0/reporting/50006ab3-964c-4ceb-833f-573065bcd7a0/page/P4BqB)
@@ -81,7 +82,6 @@
     * [Thống kê chi tiết đơn theo trạng thái](https://datastudio.google.com/u/0/reporting/f1a6d96e-0aa3-4549-8191-a328d22c1bf5/page/82aIC/edit)
     * [Số dư Account](https://datastudio.google.com/u/0/reporting/67e23aba-efb0-4cd1-bf21-097015eb3ab1/page/P4BqB)
     * [Tỷ lệ giữ chân khách hàng cũ](https://datastudio.google.com/u/0/reporting/6a328c3d-2273-4364-b5fd-9934422e7c61/page/EdHOC)
-    * [Giá vốn kiên hàng](https://datastudio.google.com/u/0/reporting/1d8bdf12-63ce-4416-bd99-9908f1b276a7/page/P4BqB)
 * VELA WORKSPACE
     * [BUSINESS OVERVIEW DASHBOARD](https://datastudio.google.com/reporting/3cf9087a-d3d9-4db2-a9aa-5065a4c06fde/page/TZ1uB)
     * [Work Date Dingtalk](https://datastudio.google.com/u/0/reporting/a0bc3318-7488-439c-917e-b557c9631383/page/o5BqB)
