@@ -58,6 +58,8 @@
     * [Thống kê sản lượng kho PP VN](https://datastudio.google.com/u/0/reporting/2781e1ab-f6d8-4713-9d17-00a54d6c4276/page/P4BqB)
     * [Eorder/ Orderhang/Baogamvn- Báo cáo giá vốn kiện hàng](https://datastudio.google.com/u/0/reporting/3b7da9f5-1e52-401d-9b60-fc1859282c21/page/P4BqB)
     * [ALI-Thống kê đơn tích chọn TMĐT](https://datastudio.google.com/u/0/reporting/13bae432-ebf7-49c5-bd97-dc4dbe9f4db1/page/oaPQC)
+    * [Thống kê LYHH hàng lô](https://datastudio.google.com/reporting/ade27ea9-1cfe-4c56-b01b-1dce6b0ac011/page/P4BqB/edit)
+    * [Kiểm soát chất lượng phản hồi khách hàng](https://datastudio.google.com/u/0/reporting/939fe5a3-060d-4bc4-a328-5ce7963f533d/page/P4BqB/edit)
 
 * SHIPPO-CB WORKSPACE
     * [Sản lượng khách hàng theo tỉnh thành](https://datastudio.google.com/u/0/reporting/50006ab3-964c-4ceb-833f-573065bcd7a0/page/P4BqB)
