@@ -84,6 +84,7 @@
     * [Thống kê chi tiết đơn theo trạng thái](https://datastudio.google.com/u/0/reporting/f1a6d96e-0aa3-4549-8191-a328d22c1bf5/page/82aIC/edit)
     * [Số dư Account](https://datastudio.google.com/u/0/reporting/67e23aba-efb0-4cd1-bf21-097015eb3ab1/page/P4BqB)
     * [Tỷ lệ giữ chân khách hàng cũ](https://datastudio.google.com/u/0/reporting/6a328c3d-2273-4364-b5fd-9934422e7c61/page/EdHOC)
+    * [Nội dung giao dịch](https://datastudio.google.com/u/0/reporting/92557812-8ecd-465c-a30c-16e3e6117311/page/rKeRC)
 * VELA WORKSPACE
     * [BUSINESS OVERVIEW DASHBOARD](https://datastudio.google.com/reporting/3cf9087a-d3d9-4db2-a9aa-5065a4c06fde/page/TZ1uB)
     * [Work Date Dingtalk](https://datastudio.google.com/u/0/reporting/a0bc3318-7488-439c-917e-b557c9631383/page/o5BqB)
