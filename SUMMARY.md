@@ -123,3 +123,4 @@
 * ThanhToan1688 - WORKSPACE
     * [Nội dung giao dịch](https://datastudio.google.com/u/0/reporting/616eafd7-04ea-4eae-8fde-722f80ff58c4/page/rKeRC)
     * [Chi tiết dữ liệu giao dịch](https://datastudio.google.com/u/0/reporting/7b55e9a3-cf69-4f1e-9fa2-a10e7926a681/page/rKeRC)
+    * [Báo cáo thanh toán hộ](https://datastudio.google.com/u/0/reporting/00856ea2-f53d-446f-9df0-2e8c7ee239ff/page/nPNSC)
