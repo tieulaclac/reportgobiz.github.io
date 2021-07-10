@@ -1,7 +1,12 @@
 # Gobiz Report
-## Nội dung 
+## Giới Thiệu 
 
-Trang web tổng hợp tất cả các báo cáo có liên quan tới Gobiz, được xây dựng bởi team PTDL- GOBIZ và được phân chia vào các dự án/ phòng ban tương ứng với chức năng.
+Trang web tổng hợp tất cả các báo thuộc các dự án được xây dựng bởi team PTDL- GOBIZ. Các báo cáo được phân chia vào các dự án/ phòng ban tương ứng với chức năng.
+
+## Lưu ý
+
+Anh/chị vui lòng xem kỹ cách thức sử dụng báo cáo bên duới và Mục: Các câu hỏi thường gặp.
+Xin cảm ơn!
 
 ### Cách thức sử dụng
 
