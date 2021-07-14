@@ -62,6 +62,8 @@
     * [Kiểm soát chất lượng phản hồi khách hàng](https://datastudio.google.com/u/0/reporting/939fe5a3-060d-4bc4-a328-5ce7963f533d/page/P4BqB/edit)
     * [ALI-DS yêu cầu thanh toán](https://datastudio.google.com/u/0/reporting/0a6538c4-0c77-4cc0-be86-786d16c917fa/page/U8DTC)
     * [Thống kê đơn hàng sửa phí](https://datastudio.google.com/u/0/reporting/84d07ec5-be34-4d08-8bbf-a83bbc0e2196/page/Y0RwB)
+    * [2h - Báo cáo Kiểm soát bao hàng](https://datastudio.google.com/reporting/01cc0816-b55a-40ff-95f2-787f61386870/page/P4BqB/edit)
+    * [Báo cáo kiểm soát việc upload thiếu giao dịch](https://datastudio.google.com/reporting/1a44274f-b2fd-4316-b7e7-bdf83af54742/page/o5BqB/edit)
 
 * SHIPPO-CB WORKSPACE
     * [Sản lượng khách hàng theo tỉnh thành](https://datastudio.google.com/u/0/reporting/50006ab3-964c-4ceb-833f-573065bcd7a0/page/P4BqB)
