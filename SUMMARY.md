@@ -120,6 +120,7 @@
     * [Delivery Overall Dashboard](https://datastudio.google.com/u/0/reporting/0f708257-8e42-4637-80c2-934fccf51786/page/o5BqB)
 * ALI-CSKH WORKSPACE
     * [Thống kê tình trạng sử dụng dịch vụ](https://datastudio.google.com/u/0/reporting/39182934-57de-4b7c-a675-c3b04da5dd2e/page/rRYIC)
+    * [Trạng thái hoạt động của khách](https://datastudio.google.com/u/0/reporting/1a1b1e68-abab-487a-b983-59b6df6b489c/page/o5BqB/edit)
 * GAODO - WORKSPACE
     * [GIAO DỊCH MẶC CẢ- TÀI CHÍNH ĐƠN](https://datastudio.google.com/u/0/reporting/8aadaf9c-3059-4a43-a7d7-0527936ec098/page/P4BqB)
 * 123PO - WORKSPACE
