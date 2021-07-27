@@ -131,3 +131,6 @@
     * [Chi tiết dữ liệu giao dịch](https://datastudio.google.com/u/0/reporting/7b55e9a3-cf69-4f1e-9fa2-a10e7926a681/page/rKeRC)
     * [Báo cáo thanh toán hộ](https://datastudio.google.com/u/0/reporting/00856ea2-f53d-446f-9df0-2e8c7ee239ff/page/nPNSC)
     * [Báo cáo doanh số](https://datastudio.google.com/u/0/reporting/c04fc3d0-6403-4905-872f-0b5a203f18df/page/o5BqB)
+* Mua hàng Ali - WORKSPACE
+    * [Lương nhân viên mua hàng](https://datastudio.google.com/reporting/ac3a13ff-119f-490f-88c1-abca79656c66/page/P4BqB)
+    * [Báo cáo mua hàng](https://datastudio.google.com/reporting/e188207f-4b96-4ea5-ac6d-0eb4c3c5dde3/page/Yk0UC)
