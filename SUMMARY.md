@@ -23,7 +23,7 @@
     * [Báo cáo tổng hợp các TK Tiền VND](https://datastudio.google.com/u/0/reporting/7a96c18a-68a3-4301-8b0e-f46a3b93ed15/page/P4BqB)
     * [Thống kê phí trả hàng](https://datastudio.google.com/u/0/reporting/7b56b1d0-0ffb-4ca1-9db5-9e655e4ff21f/page/P4BqB)
     * [Báo cáo Kiểm soát bao hàng](https://datastudio.google.com/u/0/reporting/ee41c5ea-7904-4209-b66b-d6c8488fb860/page/P4BqB)
-    * [Kiện kho phân phối chưa nhận](https://datastudio.google.com/u/0/reporting/aaa96acd-d0f0-4ab1-8f07-75e8b2c4347d/page/P4BqB)
+    * [Kiểm soát hàng hóa kho VN](https://datastudio.google.com/u/0/reporting/aaa96acd-d0f0-4ab1-8f07-75e8b2c4347d/page/P4BqB)
     * [Báo cáo lệch dữ liệu M5 - Nhaphang/Baogam](https://datastudio.google.com/u/0/reporting/610a36d6-195e-40af-a1b7-5182741293bd/page/P4BqB)
     * [ALI-Báo cáo nợ xấu](https://datastudio.google.com/u/0/reporting/6f46b222-8e31-44df-a7e4-547ef800e3aa/page/UoUoB)
     * [ALI-Báo cáo nợ xấu theo kho](https://datastudio.google.com/u/0/reporting/acac2753-712a-4e6a-bf69-6137b643ed4b/page/6H8nB)
