@@ -66,6 +66,7 @@
     * [Báo cáo kiểm soát việc upload thiếu giao dịch](https://datastudio.google.com/reporting/1a44274f-b2fd-4316-b7e7-bdf83af54742/page/o5BqB/edit)
     * [Theo dõi EB khách hàng](https://datastudio.google.com/u/0/reporting/d41480c3-268f-4157-8e40-b59450c009b6/page/P4BqB)
     * [KSCLDV - ALLPROJECT - Báo cáo KNDV](https://datastudio.google.com/reporting/86321178-786c-465a-997d-57df6770b3a3/page/o5BqB)
+    * [KSCLDV - Kiểm soát hàng hóa kho Quảng Châu](https://datastudio.google.com/u/0/reporting/64a26707-95bf-4155-a9fd-196062e73f91/page/P4BqB)
 
 * SHIPPO-CB WORKSPACE
     * [Sản lượng khách hàng theo tỉnh thành](https://datastudio.google.com/u/0/reporting/50006ab3-964c-4ceb-833f-573065bcd7a0/page/P4BqB)
