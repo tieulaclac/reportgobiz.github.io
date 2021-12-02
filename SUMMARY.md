@@ -69,6 +69,7 @@
     * [KSCLDV - Kiểm soát hàng hóa kho Quảng Châu](https://datastudio.google.com/u/0/reporting/64a26707-95bf-4155-a9fd-196062e73f91/page/P4BqB)
     * [KSCLDV - Kiểm soát phí Đóng Gỗ, Quấn Bọt Khí](https://datastudio.google.com/reporting/f6b92c5d-9468-47c0-99d9-4b1c55e26f98/page/P4BqB)
     * [KSCLDV kiểm soát kiện hàng có sale phụ trách](https://datastudio.google.com/u/0/reporting/9ce37b61-98c0-48a2-8679-4e06d728dcb8/page/o5BqB)
+    * [Báo cáo kiện hàng kho Quảng Châu](https://datastudio.google.com/u/0/reporting/e20ed7c7-f000-4a00-a6cd-4eb7787654cb/page/P4BqB/edit)
 * SHIPPO-CB WORKSPACE
     * [Sản lượng khách hàng theo tỉnh thành](https://datastudio.google.com/u/0/reporting/50006ab3-964c-4ceb-833f-573065bcd7a0/page/P4BqB)
     * [Danh sách kiện lỗi đang lưu kho](https://datastudio.google.com/u/0/reporting/32718c67-f876-44c5-8ad0-d781dd4eeb18/page/DGpCC)
