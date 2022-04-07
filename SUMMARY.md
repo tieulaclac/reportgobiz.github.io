@@ -13,8 +13,10 @@
     * [Báo cáo rủi ro M2-M5](https://datastudio.google.com/u/0/reporting/30d18062-8d4a-4a18-8b6a-05130696593f/page/P4BqB)
     * [Báo cáo rủi ro tài chính](https://datastudio.google.com/u/0/reporting/f9ddba6f-974c-4f26-aa31-d06ac027fd80/page/DpMLC)
     * [Báo cáo kiện/đơn lưu kho quá hạn](https://datastudio.google.com/u/0/reporting/b79e94cc-0ee4-44e8-8a02-1758abbf2382/page/o5BqB)
+    * [BC dữ liệu nhân viên theo ngày làm việc](https://datastudio.google.com/u/0/reporting/f9aedfe7-dd1d-45e6-a8ec-4e54cf439444/page/mpFmC)
 
 * ALI-KSCLDV WORKSPACE
+    * [KSCLDV - Kiểm soát thu phí VCQT](https://datastudio.google.com/u/0/reporting/cb295d93-7186-48a1-aad9-1539f253087d/page/iVIpC) 
     * [ALI-Thống kê SL Bao Hàng đi TMDT](https://datastudio.google.com/u/0/reporting/da9180be-0c92-4ea0-a216-ac370c9f3f36/page/P4BqB)
     * [ALLPROJECT - Báo cáo nợ xấu](https://datastudio.google.com/u/0/reporting/dcabab63-9beb-4e2c-ab12-516a7124515a/page/6H8nB)
     * [Dữ liệu kiện không nằm trong bao nào kho hiện tại kiện là Quảng Châu](https://datastudio.google.com/u/0/reporting/2cbda203-7bee-4fe7-a6d5-6f53c2a51e06/page/P4BqB)
@@ -54,7 +56,7 @@
     * [Thống kê tình hình sử dụng dịch vụ của khách trên các sites](https://datastudio.google.com/u/0/reporting/ae6fa5c5-01f8-47c2-bb58-0863e0604577/page/P4BqB)
     * [KSCLDV- Đơn Quảng Châu nhận thiếu thông tin kiện](https://datastudio.google.com/u/0/reporting/754b4117-3d00-47bb-ac44-998d08acccb6/page/P4BqB)
     * [Doanh số sale (OH, EO, BG) trên ali và ezbiz](https://datastudio.google.com/u/0/reporting/d5fc3db7-1891-4c1c-b1f7-21fbb53606ba/page/P4BqB/edit)
-    * [Đơn và kiện lệch trạng thái](https://datastudio.google.com/u/0/reporting/ea2c321c-70bf-479f-a6d0-423129015af3/page/I9YLC)
+    * [Đơn và kiện lệch trạng thái](https://datastudio.google.com/u/0/reporting/a7d4a114-1bb1-4906-863a-280e1df2edfc/page/p_n7f10tlvlc)
     * [Thống kê sản lượng kho PP VN](https://datastudio.google.com/u/0/reporting/2781e1ab-f6d8-4713-9d17-00a54d6c4276/page/P4BqB)
     * [Eorder/ Orderhang/Baogamvn- Báo cáo giá vốn kiện hàng](https://datastudio.google.com/u/0/reporting/3b7da9f5-1e52-401d-9b60-fc1859282c21/page/P4BqB)
     * [ALI-Thống kê đơn tích chọn TMĐT](https://datastudio.google.com/u/0/reporting/13bae432-ebf7-49c5-bd97-dc4dbe9f4db1/page/oaPQC)
@@ -116,6 +118,8 @@
 * Bộ phận quỹ - WORKSPACE
     * [Dự trù tiền đơn hàng](https://datastudio.google.com/u/0/reporting/6c20ba28-32eb-4eaa-85ae-aa9701d1d611/page/P4BqB)
 * FOBIZ WORKSPACE
+    * [Dữ liệu chi phí Tiktok](https://datastudio.google.com/u/0/reporting/35e36eb2-b808-4825-843b-672fbaa38c4f/page/s1uoC)
+    * [Dữ liệu chi phí FB](https://datastudio.google.com/u/0/reporting/8b089a3d-aa7d-48da-a24a-623d16ccf7c2/page/p_ucpto88psc)
     * [Báo cáo lãnh đạo](https://datastudio.google.com/u/0/reporting/f8211c7f-0523-4406-b12a-48f6017b4e18/page/o5BqB)
     * [Báo cáo team Vận Hành](https://datastudio.google.com/u/0/reporting/5eac4a6e-78fc-443b-b866-be0a13e2d1f1/page/2nF6B)
     * [Báo cáo quản lý](https://datastudio.google.com/u/0/reporting/60611df8-9350-4c33-827a-d042bbabca2c/page/o5BqB)
