@@ -17,10 +17,12 @@
 
 * ALI-KSCLDV WORKSPACE
     * [KSCLDV - Kiểm soát thu phí VCQT](https://datastudio.google.com/u/0/reporting/cb295d93-7186-48a1-aad9-1539f253087d/page/iVIpC) 
+    * [Dữ liệu tài chính M28](https://datastudio.google.com/u/0/reporting/da581a19-b6bd-40e9-92d8-5554048fcf90/page/cSQmC) 
     * [ALI-Thống kê SL Bao Hàng đi TMDT](https://datastudio.google.com/u/0/reporting/da9180be-0c92-4ea0-a216-ac370c9f3f36/page/P4BqB)
     * [ALLPROJECT - Báo cáo nợ xấu](https://datastudio.google.com/u/0/reporting/dcabab63-9beb-4e2c-ab12-516a7124515a/page/6H8nB)
     * [Dữ liệu kiện không nằm trong bao nào kho hiện tại kiện là Quảng Châu](https://datastudio.google.com/u/0/reporting/2cbda203-7bee-4fe7-a6d5-6f53c2a51e06/page/P4BqB)
     * [Kiểm soát đơn âm không có KNNB và giao dịch KNNB Alipay](https://datastudio.google.com/u/0/reporting/12d6f6fa-ec3e-487d-9fcb-9b2296d74e43/page/o5BqB)
+    * [KSCLDV: KIỂM SOÁT KIỆN HÀNG TRÙNG TRONG BAO](https://datastudio.google.com/u/0/reporting/f7796dfd-6346-4fd3-96af-e05f8fdc2718/page/Cl0iC)
     * [Tổng hợp thu chi trên các Web TCNB](https://datastudio.google.com/u/0/reporting/96df5d18-18a6-4105-8224-133bcf7ac72a/page/P4BqB)
     * [Báo cáo tổng hợp các TK Tiền VND](https://datastudio.google.com/u/0/reporting/7a96c18a-68a3-4301-8b0e-f46a3b93ed15/page/P4BqB)
     * [Thống kê phí trả hàng](https://datastudio.google.com/u/0/reporting/7b56b1d0-0ffb-4ca1-9db5-9e655e4ff21f/page/P4BqB)
@@ -74,6 +76,7 @@
     * [Báo cáo kiện hàng kho Quảng Châu](https://datastudio.google.com/u/0/reporting/e20ed7c7-f000-4a00-a6cd-4eb7787654cb/page/P4BqB/edit)
 * SHIPPO-CB WORKSPACE
     * [Sản lượng khách hàng theo tỉnh thành](https://datastudio.google.com/u/0/reporting/50006ab3-964c-4ceb-833f-573065bcd7a0/page/P4BqB)
+    * [Shippo CB - Thống kê xử lý đơn thiếu thông tin kê khai](https://datastudio.google.com/u/0/reporting/50006ab3-964c-4ceb-833f-573065bcd7a0/page/P4BqB)
     * [Danh sách kiện lỗi đang lưu kho](https://datastudio.google.com/u/0/reporting/32718c67-f876-44c5-8ad0-d781dd4eeb18/page/DGpCC)
     * [Danh sách kiện in tem tiểu ngạch](https://datastudio.google.com/u/0/reporting/682b49a8-d62e-4da9-a589-a92b8e50664d/page/S7lvB)
     * [Kho phân phối theo đơn mới nhất của user](https://datastudio.google.com/u/0/reporting/57bd4b28-09db-4beb-a30f-aa7e7bf6053a/page/P4BqB)
@@ -115,6 +118,7 @@
 * MUA HÀNG - NCC WORKSPACE
     * [Báo cáo tỷ lệ chiết khấu theo NCC](https://datastudio.google.com/u/0/reporting/b49c3a2b-e15b-48fc-bbd4-d7997619f191/page/P4BqB)
     * [ALI- Thống kê tỷ lệ mặc cả](https://datastudio.google.com/u/0/reporting/25288e9f-7610-49a3-b55e-eaba8d1fe65f/page/KSjjB)
+    * [Yêu Cầu Thanh Toán Hộ](https://datastudio.google.com/u/0/reporting/230f51ec-4599-4bd4-8c8d-4f162bc7471f/page/E38qC)
 * Bộ phận quỹ - WORKSPACE
     * [Dự trù tiền đơn hàng](https://datastudio.google.com/u/0/reporting/6c20ba28-32eb-4eaa-85ae-aa9701d1d611/page/P4BqB)
 * FOBIZ WORKSPACE
