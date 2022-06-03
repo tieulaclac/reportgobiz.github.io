@@ -132,6 +132,8 @@
 * ALI-CSKH WORKSPACE
     * [Thống kê tình trạng sử dụng dịch vụ](https://datastudio.google.com/u/0/reporting/39182934-57de-4b7c-a675-c3b04da5dd2e/page/rRYIC)
     * [Trạng thái hoạt động của khách](https://datastudio.google.com/u/0/reporting/1a1b1e68-abab-487a-b983-59b6df6b489c/page/o5BqB/edit)
+* FULFILMENT-UBOX WORKSPACE
+    * [Xuất nhập kho fulfillment](https://datastudio.google.com/reporting/ef9b463b-0923-4117-9c9b-b31fe2125850/page/P4BqB)
 * GAODO - WORKSPACE
     * [GIAO DỊCH MẶC CẢ- TÀI CHÍNH ĐƠN](https://datastudio.google.com/u/0/reporting/8aadaf9c-3059-4a43-a7d7-0527936ec098/page/P4BqB)
 * 123PO - WORKSPACE
