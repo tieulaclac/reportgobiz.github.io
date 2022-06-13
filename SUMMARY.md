@@ -14,6 +14,7 @@
     * [Báo cáo rủi ro tài chính](https://datastudio.google.com/u/0/reporting/f9ddba6f-974c-4f26-aa31-d06ac027fd80/page/DpMLC)
     * [Báo cáo kiện/đơn lưu kho quá hạn](https://datastudio.google.com/u/0/reporting/b79e94cc-0ee4-44e8-8a02-1758abbf2382/page/o5BqB)
     * [BC dữ liệu nhân viên theo ngày làm việc](https://datastudio.google.com/u/0/reporting/f9aedfe7-dd1d-45e6-a8ec-4e54cf439444/page/mpFmC)
+    * [Báo cáo chấm công Ubox](https://datastudio.google.com/u/0/reporting/6f0347e8-886d-44d8-b0ee-cdcdd450270e/page/P4BqB/edit)
 
 * ALI-KSCLDV WORKSPACE
     * [KSCLDV - Kiểm soát thu phí VCQT](https://datastudio.google.com/u/0/reporting/cb295d93-7186-48a1-aad9-1539f253087d/page/iVIpC) 
