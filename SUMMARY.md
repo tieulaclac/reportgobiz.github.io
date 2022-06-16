@@ -21,7 +21,6 @@
    * [KSCLDV: Thông tin đơn hàng linedientu2](https://datastudio.google.com/u/1/reporting/6f4ff710-0860-4486-91ab-eb5f52ba53ae/page/gnarC)
    * [ALI - Kho- Báo cáo vận chuyển hàng lô](https://datastudio.google.com/u/1/reporting/fe0d6f78-dcbe-4a37-a034-ac05fa73778f/page/o5BqB)
    * [Ali-KSCLDV: BC KSTC ĐƠN KHÁC 0](https://datastudio.google.com/u/1/reporting/94a3111d-4bc1-4497-8ccc-6d7231df9e86/page/4iPqB)
-   * [ Ali Thống kê đơn tích chọn TMĐT ](https://datastudio.google.com/u/1/reporting/13bae432-ebf7-49c5-bd97-dc4dbe9f4db1/page/oaPQC)
    * [Ali Giao dịch mặc cả](https://datastudio.google.com/u/1/reporting/1d1327f8-9b26-4730-9777-228c3eb3b293/page/o5BqB)
    * [KSCLDV-Kiểm soát user khách hàng](https://datastudio.google.com/u/1/reporting/c3345f7d-cb27-4770-8ab8-1c52bea9f319/page/o5BqB)
    * [lỗi](https://datastudio.google.com/u/1/reporting/165d6c05-443f-40d6-a4e1-6d931e55aacd/page/p_dog5vxynuc)
